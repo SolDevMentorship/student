@@ -10,7 +10,7 @@ Follow the steps below to create your personal repository:
 
 ### 1. Manually Create Your Repo
 
-🔗 Go to: [https://github.com/organizations/SolDevMentorship/repositories](https://github.com/organizations/SolDevMentorship/repositories)
+🔗 Go to: [https://github.com/organizations/SolDevMentorship/repositories](https://github.com/orgs/SolDevMentorship/repositories)
 
 1. Click the green **"New"** button to create a new repository.
 2. **Repository name**: Use **your GitHub username** exactly as it appears.  
